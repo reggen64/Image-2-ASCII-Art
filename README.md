@@ -9,4 +9,4 @@ the ascii characters
 
 You can see an example below:
 
-![alht](https://github.com/reggen64/Image-2-ASCII-Art/blob/main/image%20(1).png)
+![Example](/image.png)
