@@ -6,3 +6,7 @@ is monospaced because this script does not take care of differenct spacing of fo
 
 After obtaining the brightness level, `script.py` first converts the image to grayscale and then spits out the characters in accordance with a mapping from the grayscale pixel values to the sorted array of 
 the ascii characters
+
+You can see an example below:
+
+![alht](https://github.com/reggen64/Image-2-ASCII-Art/blob/main/image%20(1).png)
